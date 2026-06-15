@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1001",
+    "name": "Fone de Ouvido Bluetooth",
+    "price": 199.9,
+    "stock": 28,
+    "icon": "headphones",
+    "shortDescription": "Som de alta qualidade com conexão estável.",
+    "longDescription": "Fone sem fio com almofadas confortáveis, bateria de longa duração e conexão Bluetooth estável. Ideal para estudar, assistir aulas on-line e ouvir músicas com boa qualidade sonora."
+  },
+  {
+    "id": "1002",
+    "name": "Smartwatch Fit X",
+    "price": 299.9,
+    "stock": 15,
+    "icon": "watch",
+    "shortDescription": "Monitoramento de saúde e notificações no pulso.",
+    "longDescription": "Relógio inteligente com monitoramento de batimentos, atividades físicas, notificações de aplicativos e bateria de longa duração. Excelente para estudantes acompanharem rotina, estudos e atividades diárias."
+  },
+  {
+    "id": "1003",
+    "name": "Caixa de Som Inteligente",
+    "price": 149.9,
+    "stock": 32,
+    "icon": "speaker",
+    "shortDescription": "Potência e graves para qualquer ocasião.",
+    "longDescription": "Caixa de som compacta com áudio potente, visual moderno e conexão sem fio. Pode ser usada em apresentações escolares, atividades em grupo e momentos de lazer."
+  },
+  {
+    "id": "1004",
+    "name": "Mouse Gamer RGB",
+    "price": 129.9,
+    "stock": 40,
+    "icon": "mouse",
+    "shortDescription": "Alta precisão e iluminação RGB.",
+    "longDescription": "Mouse com sensor preciso, botões laterais e iluminação RGB. Indicado para projetos de programação, jogos educativos e uso em laboratórios de informática."
+  },
+  {
+    "id": "1005",
+    "name": "Teclado Mecânico Compacto",
+    "price": 239.9,
+    "stock": 18,
+    "icon": "keyboard",
+    "shortDescription": "Digitação confortável para programação.",
+    "longDescription": "Teclado compacto com teclas mecânicas, resposta rápida e ótima ergonomia. Ajuda o estudante a praticar programação com mais conforto e produtividade."
+  }
+]
